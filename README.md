@@ -1,6 +1,6 @@
-backend folder is main branch and frontend floder is frontend branch
+backend & frontend folder is main branch
 
-overall 3 task at one singal project using routes
+overall 3 task at one single project using routes
 
 Technical Skills : React , Tailwind css , Node js , MySql
 
