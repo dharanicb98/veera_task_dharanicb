@@ -12,7 +12,7 @@ if your using in this connect database locally - using mySql and Node js
 
 backend -> 
         | -> 
-        | -> db.js -> // if you want connect the database using above webapp, change the datebase name which we can store database name for using  
+        | -> db.js -> // if you want connect the database using above webapp go through the db.js file, change the database name which we can store database name for using  
 
 ![image](https://github.com/dharanicb98/veera_task_dharanicb/assets/166556890/d4c92422-358a-40c3-9776-75f855595b77)
 
