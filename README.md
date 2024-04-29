@@ -8,7 +8,7 @@ for video reference : https://www.loom.com/share/f59e8ebebe4d46e780b610e19633bd7
 
 this is above project deployed link : https://dharanicb-veera-task.netlify.app/
 
-if your using in this connect database locally - usring mySql and Node js 
+if your using in this connect database locally - using mySql and Node js 
 
 backend -> 
         | -> 
