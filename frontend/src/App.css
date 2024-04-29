@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-bar-list {
+  display: none;
+}
+
+@media screen and (min-width: 700px) {
+  .nav-bar-list {
+    display: block;
+  }
+  .nav-Icon {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .nav-bar-list {
+    display: none;
+  }
+  .nav-Icon {
+    display: block;
+  }
+}
